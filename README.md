@@ -2,7 +2,7 @@
 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATfEE94SYPLEVqUrC-97WSG7iD50fexcKDA&s)
 
 
 **Hyperx1455/Hyperx1455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
